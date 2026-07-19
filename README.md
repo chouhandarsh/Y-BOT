@@ -128,14 +128,10 @@ Then open the local URL shown in the terminal (typically `http://localhost:8501`
 - [ ] Cache embeddings to avoid recomputation on repeated runs
 - [ ] Add source-chunk highlighting in the UI for transparency
 - [ ] Dockerize the app for easier deployment
+- [ ] Adding Context window of the previous chat and Adding History
 
 ---
 
-## 📄 License
-
-This project is currently unlicensed. Add a `LICENSE` file to specify usage terms.
-
----
 
 ## 🙋 Author
 
