@@ -1,4 +1,7 @@
 # Y-BOT 🎥🤖
+<img width="1559" height="928" alt="image" src="https://github.com/user-attachments/assets/cc6552df-12b1-4d47-99c7-9382f077fbd3" />
+
+
 
 **Y-BOT** is a Retrieval-Augmented Generation (RAG) chatbot that lets you ask questions about a video and get answers grounded directly in the video's transcript — no hallucinated guesses, just retrieved context.
 
