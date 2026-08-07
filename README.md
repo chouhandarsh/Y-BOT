@@ -56,7 +56,7 @@ Y_BOT/
 | Embeddings        | HuggingFace Embeddings                  |
 | LLM               | `ChatHuggingFace` (HuggingFace Inference)|
 | Vector Store      | FAISS / Chroma (via `rag/`)             |                            |
-| UI (Option 2)     | Streamlit                               |
+| UI                | Streamlit                               |
 | Language          | Python 3                                |
 
 ---
